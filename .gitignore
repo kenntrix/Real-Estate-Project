@@ -1,0 +1,25 @@
+# PYTHON / DJANGO
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+venv/
+env/
+staticfiles/
+media/
+.DS_Store
+
+# NODE / REACT 
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# BUILD / DEPLOYMENT
+build/
+.idea/
+.vscode/
+*.log
